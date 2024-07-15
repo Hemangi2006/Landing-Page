@@ -1,0 +1,55 @@
+
+.nav1{
+    width:100%;
+    height:50px;
+    color:white;
+    background : #235997;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+ .nav1 i{
+    margin:0 5px;
+ } 
+ .nav1 a{
+    text-decoration:none;
+    color:white;
+    padding: 5px 10px;
+    background: #e67e22;
+   
+} nav{
+   width: 50px;
+   height: 10px;
+   
+}
+.menu a{
+   text-decoration:none;
+   color:rgb(19, 17, 18);
+   padding:10px 45px;
+}
+
+.h-text{
+   padding-left: 0%;
+   position: absolute;
+   top: 45%;
+   right: 45%;
+   color:rgb(7, 7, 7);
+   background-color: skyblue;
+   text-align: center;
+  
+   display: block;
+}
+.h-text p{
+   font-size: 15px;
+   margin: 50px  90px;
+   line-height: 40px;
+}
+.h-text a{
+   text-decoration: none;
+   color: white;
+   background: #e67e22;
+   padding: 10px 20px;
+   margin: 0 15px;
+   letter-spacing: 5px;
+} 

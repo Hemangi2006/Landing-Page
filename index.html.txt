@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> linking html to css  </title>
+    <link rel="stylesheet" type="text/css" href="sweb.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet"  type="text/css"  href="style.css">
+</head>
+ 
+<body>
+
+
+    <nav class="nav1">
+        <div>
+             <p>
+                Contact: New bright tower next to Mafi mall,
+                Ethiopia 1524 Lilburn rd Stone Mountain ,
+                U.S.A.Phone: +102-438-8345       </p>
+        </div>
+        <div>
+            <i class="fa fa-facebook"></i>
+            <i class="fa fa-google"></i>     
+            <i class="fa fa-twitter"></i>
+            <a href="#">signup</a>
+           <a href="#">signin</a>
+              </div>
+    </nav>
+
+        <nav class="nav2"></nav>
+        <div class="menu">
+            <a href="#">Home</a>
+            <a href="#">Admission</a>
+            <a href="#">Courses</a>
+            <a href="#">Events</a>
+            <a href="#">Pages</a>
+            <a href="#">Student</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+            <a href="#">more details</a>
+        </div>
+</body>
+<header>
+        
+ <img src="file:///C:/Users/ASUS/Downloads/conestoga%20high%20school.webp"  width="100%" height="530vh">
+           
+    <div class="h-text"> 
+        <h1> WELCOME TO CONESTOGA HIGH SCHOOL</h1>
+        <h2> SCHOOL ADMISSION  2024-2025</h2>
+        <h2> Now open for Registrations!</h2>
+        
+      
+        <p> Your Children Deserve Best Education.
+             We Ensure Better Education for a better World 
+           </p>
+    
+        <a href="#">LEARN MORE</a>
+        <a href="#">REGISTER NOW</a></div></header>
+    
+    </html> 
+                
+               
+    
+
+        
+        
+
+ 
+
+
